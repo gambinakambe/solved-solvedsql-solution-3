@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedsql-solution-3
+<br>
+1. For each department with more than 20 full-time-equivalent employees (i.e., where the part-time and full-time employees add up to at least that many full-time employees), print the did together with the number of employees that work in that department.2. Find the enames of managers who manage the departments with the largest budgets3. If a manager manages more than one department, he or she controls the sum of all the budgets for those departments. Find the managerids of managers who control more than $5 million.4. Find the managerids of managers who control the largest amounts.
